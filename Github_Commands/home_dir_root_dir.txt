@@ -1,1 +1,0 @@
-Home directory is where the users personal files and settings are kept whiles the root directory is where the top most directory of the file system,comprising all files and folders in other words is the root of the system.
