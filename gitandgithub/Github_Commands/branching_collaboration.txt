@@ -1,0 +1,4 @@
+Branching in git allows multiple developers to collaborate on a project simultaneosly.
+parallel development this allows team members to work on different features simultaneosly.
+easy integration is helps merge branches to combine change.
+isolated testing the test can changes without affecting the main codebase.

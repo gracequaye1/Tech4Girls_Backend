@@ -1,0 +1,2 @@
+these are the commands i used:mkdir projectA and projectB
+lastly i used the touch project_directories.txt to creat a file.

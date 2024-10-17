@@ -1,0 +1,6 @@
+file ownership are group into three which are the owner(u),Group(g),and others (o).Permissions are assigned in three levels:
+Owner: Permissions for the file’s owner.
+Group: Permissions for the group assigned to the file.
+Others: Permissions for everyone else.
+with the modes which include Read(r),Write(w),and execute(x).read allows one in viewing files,whiles read is for modification or allows modification and execute allows files to be executed.
+for the files side rwx is contols files accces. and in the directories side too the rwx controls directory listing and access.

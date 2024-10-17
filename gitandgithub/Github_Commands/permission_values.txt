@@ -1,0 +1,10 @@
+In Linux, this are permissions have numeric values:
+
+Read (r) = 4
+Write (w) = 2
+Execute (x) = 1
+
+Examples:
+rwx = 7
+rw- = 6
+r-- = 4

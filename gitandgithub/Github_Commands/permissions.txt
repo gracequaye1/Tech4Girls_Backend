@@ -1,0 +1,1 @@
+file permissions are represented as "rwxrwxrwx" which is read, write, and execute access for owner,group, and others.

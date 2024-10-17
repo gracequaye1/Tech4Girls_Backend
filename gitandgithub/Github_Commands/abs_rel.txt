@@ -1,0 +1,1 @@
+the absolute path start from the root directory and it also gives the full path to a file or directory and for the relative path is starts from the current working directory and gives a path relative to the current location.

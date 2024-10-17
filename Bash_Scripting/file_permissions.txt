@@ -1,0 +1,11 @@
+-rw-r--r--:
+-: Regular file.
+rw-: Owner (userhacsa) can read and write.
+r--: Group can only read.
+r--: Others can only read.
+1: Number of hard links to the file (just 1).
+userhacsa: Owner of the file.
+userhacsa: Group that owns the file.
+70: File size in bytes.
+Oct 14 10:00: Last modification date and time.
+script.sh: File name.
