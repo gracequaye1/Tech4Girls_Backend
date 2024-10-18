@@ -1,0 +1,1 @@
+ Navigate to the README.md folder.\n2. Type: realpath README.md\n3. The absolute path will be shown.

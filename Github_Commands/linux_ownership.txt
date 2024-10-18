@@ -1,0 +1,5 @@
+The three groups of users in Linux are:
+
+Owner
+Group
+Others

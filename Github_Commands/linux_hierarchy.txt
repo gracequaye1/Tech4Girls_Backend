@@ -1,0 +1,9 @@
+Seven common directories found in the root directory (/) in Linux are:
+
+/bin
+/boot
+/dev
+/etc
+/home
+/lib
+/usr
