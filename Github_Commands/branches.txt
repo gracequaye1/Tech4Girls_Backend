@@ -1,0 +1,1 @@
+The 'git pull' command is used to fetch and merge changes from the remote repository into your local branch. It is used when you want to update your local branch with the latest changes from the remote branch, ensuring you have the most up-to-date code.
