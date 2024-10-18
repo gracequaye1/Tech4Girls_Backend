@@ -1,0 +1,5 @@
+In Linux, every file and directory is owned by a user and a group.
+Read (r): Allows reading the content of the file or listing directory contents.
+ Write (w): Allows modifying the file or adding/removing files in a directory.
+  Execute (x): Allows executing a file or entering a directory.
+  Permissions are applied separately for the Owner, Group, and Others.
