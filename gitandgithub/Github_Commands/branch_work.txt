@@ -1,3 +1,0 @@
-so in my vs code i will input this command to create a branch git branch <branch_name>.
-to publish i will input this command git push 
-also to switch to the next branch git checkout <branch_name>.
