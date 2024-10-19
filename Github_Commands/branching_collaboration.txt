@@ -1,0 +1,3 @@
+Branching in Git allows you to create separate copies of your code to work on new features or fixes without affecting the main project.
+ It helps collaboration by allowing multiple people to work on different features or issues simultaneously. 
+ Once a branch is ready, it can be merged back into the main branch.
