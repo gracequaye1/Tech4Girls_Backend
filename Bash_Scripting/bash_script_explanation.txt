@@ -1,0 +1,3 @@
+A Bash script is a text file containing a series of commands that are executed by the Bash shell.
+ It's used to automate repetitive tasks in Linux. 
+ To create a Bash script, write commands into a text file, make the file executable using 'chmod +x', and run it using './script_name.sh'.
