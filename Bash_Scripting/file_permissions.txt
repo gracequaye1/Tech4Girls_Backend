@@ -1,0 +1,7 @@
+The output -rw-r--r-- means:
+- 'r' stands for read permission.
+- 'w' stands for write permission.
+- 'x' stands for execute permission.
+- The first set of rw- applies to the file owner.
+- The second set r-- applies to the group.
+- The third set r-- applies to others.
