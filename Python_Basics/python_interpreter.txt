@@ -1,0 +1,6 @@
+To open a python interpreter on my system: first i will open my termial.Type python3 and then press enter.
+example: Adding two numbers using the interpreter:
+>>> a = 9
+>>> b = 11
+>>> a + b
+21
