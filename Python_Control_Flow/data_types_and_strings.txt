@@ -1,0 +1,33 @@
+int: Whole numbers without decimals.
+
+Example: x = 10
+float: Numbers with decimals.
+
+Example: y = 5.75
+str: Text enclosed in quotes.
+
+Example: text = "Hello"
+list: Ordered, changeable collection, allows duplicates.
+
+Example: my_list = [1, 2, 3]
+tuple: Ordered, unchangeable collection.
+
+Example: my_tuple = (1, 2, 3)
+set: Unordered collection, no duplicates.
+
+Example: my_set = {1, 2, 3}
+
+use of the following string methods in Python.
+
+upper(): Converts a string to uppercase.
+Example: "hello".upper() results in "HELLO"
+lower(): Converts a string to lowercase.
+Example: "HELLO".lower() results in "hello"
+replace(): Replaces a substring with another substring.
+Example: "hello".replace("e", "a") results in "hallo"
+split(): Splits a string into a list based on a delimiter.
+Example: "hello world".split() results in ["hello", "world"]
+join(): Joins elements of a list into a single string with a specified separator.
+Example: " ".join(["hello", "world"]) results in "hello world"
+find(): Returns the index of the first occurrence of a substring.
+Example: "hello".find("e")
