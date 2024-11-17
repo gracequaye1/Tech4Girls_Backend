@@ -1,0 +1,10 @@
+Object-Oriented Programming (OOP) is a way to organize code using objects, which combine data (attributes) and actions (methods). It has four key principles:
+
+Encapsulation: Hides internal details and exposes only what’s needed.
+Abstraction: Shows only the important details and hides complexity.
+Inheritance: Lets one class reuse or extend another.
+Polymorphism: One action behaves differently based on the object.
+
+Why OOP is useful: It makes code reusable, easier to maintain, modular, and better at modeling real-world problems.
+
+Example: In an online store, users (objects) have private data (encapsulation), payment systems hide complexity (abstraction), and premium users inherit regular user features (inheritance).
